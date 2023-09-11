@@ -1,2 +1,3 @@
 estas es una prueba
 Establecemos los cambios correspondientes en esto
+Prueba de esta prueba de git es que manejamos estos cambios principantes
